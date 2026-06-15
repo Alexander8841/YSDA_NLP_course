@@ -1,0 +1,11 @@
+{
+    "venvPath": "C:\\Users\\alexander\\.conda\\envs",
+    "venv": "llm_env",
+    "extraPaths": [
+        ".",
+        "flight-agent-system",
+        "C:\\Users\\alexander\\.conda\\envs\\llm_env\\Lib\\site-packages"
+   
+    ],
+    "python.pyrefly.disableTypeErrors": true
+}
